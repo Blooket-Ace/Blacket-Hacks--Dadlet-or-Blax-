@@ -1,4 +1,4 @@
-alert('Created by Blooket Ace')
+alert('Created by Blooket Ace.ALL daily tokens for the day added to your Blacket account.Reload this page after 3 seconds!!!')
 function updateTokens() {
     $.get(`/worker/user/gettokens.php`, function(data) {
         var x = Number(data).toLocaleString()
@@ -9,5 +9,3 @@ setInterval(() => {
     $.post('/worker/box/openbox.php', 'box=Add Tokens')
     updateTokens()
 }, 501)
-
-alert('ALL daily tokens for the day added.!!!)
