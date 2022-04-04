@@ -1,3 +1,4 @@
+alert('Made by Blooket Ace')
 var sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
 
 var spamOpenBox = async () => {
