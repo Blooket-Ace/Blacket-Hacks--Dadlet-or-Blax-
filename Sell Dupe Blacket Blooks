@@ -1,5 +1,4 @@
-alert('Made by Blooket Ace')
-alert('Please wait for a while and look patiently at the console page')
+alert('Made by Blooket Ace.Please wait for a while and look patiently at the console page')
 async function sell(blook) {
     $.get(`/worker/blook/getuserblook.php?blook=${blook}`, function(data) {
         var amt = Number(data)-1
