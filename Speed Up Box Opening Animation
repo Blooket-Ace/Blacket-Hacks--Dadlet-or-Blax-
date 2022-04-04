@@ -1,4 +1,4 @@
-alert('Created by Blooket Ace')
+alert('Created by Blooket Ace.Open a random Blacket Boxes now!!!')
 $('<style>', {
 id: `cssInject`
 }).appendTo('#app');
