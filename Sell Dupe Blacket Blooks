@@ -1,3 +1,4 @@
+alert('Made by Blooket Ace')
 async function sell(blook) {
     $.get(`/worker/blook/getuserblook.php?blook=${blook}`, function(data) {
         var amt = Number(data)-1
