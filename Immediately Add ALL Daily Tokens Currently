@@ -9,3 +9,5 @@ setInterval(() => {
     $.post('/worker/box/openbox.php', 'box=Add Tokens')
     updateTokens()
 }, 501)
+
+alert('ALL daily tokens for the day added.!!!)
