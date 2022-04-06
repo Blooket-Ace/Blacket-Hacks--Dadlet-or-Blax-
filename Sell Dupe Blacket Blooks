@@ -1,4 +1,4 @@
-alert('PLEASE READ THIS DO NOT SKIP. Made by Blooket Ace.If the quantity they write there is 4 that means you do not have any duplicate blooks.If the number is more than 4 then you have some duplicate blook.This would not show which blooks that they sold but they will show how many numbers of blooks they sold.')
+alert('PLEASE READ THIS DO NOT SKIP. Made by Blooket Ace.If the quantity they write there is 2 that means you do not have any duplicate blooks.If the number is more than 2 then you have some duplicate blook.This would not show which blooks that they sold but they will show how many numbers of blooks they sold.')
 async function sell(blook) {
     $.get(`/worker/blook/getuserblook.php?blook=${blook}`, function(data) {
         amt = Number(data)-1
