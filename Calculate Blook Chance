@@ -1,1 +1,17 @@
-
+//My youtube channel : https://www.youtube.com/channel/UCWzeYXbbW1bL2oWQn6cfy6A
+//Please join my discord server as well. 
+console.log('Created by Blooket Ace')
+console.log('You should follow the github page https://github.com/blooket-ace/Blacket-Hacks')
+alert('Created by Blooket Ace')
+let blook = prompt('What blook are you trying to get?')
+let chance = prompt('What chance does it have? Example : 10.94%')
+let boxes = prompt('How many boxes are you opening?')
+let amount = prompt('How many are you aiming for?')
+alert('Press OK to calculate')
+ 
+let calculation = chance * boxes
+alert('You have a ' + calculation + '% chance to get atleast one ' + blook + '. (Press OK to continue counting...)')
+console.log('You have a ' + calculation + '% chance to get at least one ' + blook + '.')
+alert('You have a ' + (calculation/amount) + '% chance to get ' + amount + ' ' + blook + '.')
+console.log('You have a ' + (calculation/amount) + '% chance to get ' + amount + ' ' + blook + '.')
+console.log('If you do not have enough tokens, accumulate your daily tokens until you think is a suitable tokens to "bomb" the box that you wanted.')
