@@ -1,5 +1,6 @@
 alert('Made by Blooket Ace. Please check the console page later to see what blook you get so far.)after selecting BOX NAME AND BOX AMOUNT.')
 var sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
+var sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
 
 var spamOpenBox = async () => {
 let boxName = prompt('Which box would you like to open? Please do not include "box" after the name.');
