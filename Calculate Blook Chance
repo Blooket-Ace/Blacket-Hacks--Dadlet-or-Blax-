@@ -1,7 +1,7 @@
 //My youtube channel : https://www.youtube.com/channel/UCWzeYXbbW1bL2oWQn6cfy6A
 //Please join my discord server as well. 
 console.log('Created by Blooket Ace')
-console.log('You should follow the github page https://github.com/blooket-ace/Blacket-Hacks')
+console.log('You should follow my github page https://github.com/Blooket-Ace')
 alert('Created by Blooket Ace')
 let blook = prompt('What blook are you trying to get?')
 let chance = prompt('What chance does it have? Example : 10.94%')
