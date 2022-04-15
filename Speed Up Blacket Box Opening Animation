@@ -1,9 +1,7 @@
 alert('Created by Blooket Ace')
 console.log('Made by Blooket Ace')
-console'.log(My WEBSITE  https://blooketace.wixsite.com/main')
-console.log('My discord server  https://discord.gg/ka4gfvUV4c')
-console.log('My youtube channel  https://www.youtube.com/channel/UCWzeYXbbW1bL2oWQn6cfy6A')
-console.log('My GitHub  https://github.com/Blooket-Ace')
+console.log('Please join my Discord server')
+console.log('Enjoy!!')
 $('<style>', {
 id: `cssInject`
 }).appendTo('#app');
