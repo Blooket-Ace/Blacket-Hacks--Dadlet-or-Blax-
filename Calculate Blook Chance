@@ -2,6 +2,7 @@
 //Please join my discord server as well. 
 console.log('Created by Blooket Ace')
 console.log('You should follow my github page https://github.com/Blooket-Ace')
+console.log('Please join my discord server : https://discord.gg/ka4gfvUV4c')
 alert('Created by Blooket Ace')
 let blook = prompt('What blook are you trying to get?')
 let chance = prompt('What chance does it have? Example : 10.94%')
