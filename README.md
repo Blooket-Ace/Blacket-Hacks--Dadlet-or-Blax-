@@ -1,5 +1,5 @@
-# Dadlet-and-Blacket-Hacks
-Dadlet and Blacket Hacks That Made By Blooket Ace
+# Dadlet-or-Blacket-Hacks.   Dadlet or Blacket website :  https://xotic.org/
+Dadlet or Blacket Hacks That Made By Blooket Ace
 
 Please: 
 1)Visit my website
