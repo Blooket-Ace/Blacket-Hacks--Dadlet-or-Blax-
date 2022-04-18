@@ -16,4 +16,4 @@ My youtube channel: https://www.youtube.com/channel/UCWzeYXbbW1bL2oWQn6cfy6A
 
 My GitHub : https://github.com/Blooket-Ace
 
-Email Me :     octocat9876@gmail.com
+My email :     octocat9876@gmail.com
