@@ -1,5 +1,5 @@
 alert('Made by Blooket Ace. Please check the console page to see what blook you get so far.)after selecting BOX NAME AND BOX AMOUNT.')
-console.log('Please check the console page to see waht blooks do you get')
+console.log('Please check the console page to see waht blooks do you get.Please be patient...')
 var sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
 
 var spamOpenBox = async () => {
