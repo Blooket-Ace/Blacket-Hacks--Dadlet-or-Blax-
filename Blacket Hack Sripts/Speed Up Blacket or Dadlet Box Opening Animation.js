@@ -1,6 +1,7 @@
 alert('Created by Blooket Ace')
 console.log('Made by Blooket Ace')
 console.log('Please join my Discord server:  https://discord.gg/ka4gfvUV4c')
+//('You can close the inspect later')
 $('<style>', {
 id: `cssInject`
 }).appendTo('#app');
