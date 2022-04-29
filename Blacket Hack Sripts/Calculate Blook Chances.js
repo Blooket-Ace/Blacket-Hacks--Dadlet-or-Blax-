@@ -4,7 +4,7 @@ let blook = prompt('What blook are you trying to get?')
 let chance = prompt('What chance does it have? Mysticals are usually 0.005')
 let boxes = prompt('How many boxes are you opening?')
 let amount = prompt('How many are you aiming for?')
-alert('Press the "OK" button to continue calculating')
+alert('Press OK to calculate')
  
 let calculation = chance * boxes
 alert('You have a ' + calculation + '% chance to get atleast one ' + blook + '. (Press OK to continue)')
