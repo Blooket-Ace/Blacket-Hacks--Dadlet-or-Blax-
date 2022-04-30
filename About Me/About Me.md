@@ -12,7 +12,7 @@ My Discord server : https://discord.gg/ka4gfvUV4c
 
 My Reddit: https://www.reddit.com/r/BlooketAce/
 
-My youtube channel: https://www.youtube.com/channel/UCWzeYXbbW1bL2oWQn6cfy6A
+My Youtube channel: https://www.youtube.com/channel/UCWzeYXbbW1bL2oWQn6cfy6A
 
 My GitHub : https://github.com/Blooket-Ace
 
