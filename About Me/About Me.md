@@ -15,3 +15,5 @@ My reedit: https://www.reddit.com/r/BlooketAce/
 My youtube channel: https://www.youtube.com/channel/UCWzeYXbbW1bL2oWQn6cfy6A
 
 My GitHub : https://github.com/Blooket-Ace
+
+Email me : https://mail.google.com/mail/?view=cm&fs=1&to=octocat9876%40gmail.com&authuser=0
