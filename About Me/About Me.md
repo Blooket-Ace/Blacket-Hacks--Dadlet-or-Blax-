@@ -1,8 +1,8 @@
-Please: 
+Please: 
 1)Visit my website
 2)Join my Discord server
-3)Subscribe my Youtube channel
-4)Share my Youtube channel to others
+3)Subscribe my YouTube channel
+4)Share my YouTube channel to others
 4)Follow my GitHub account.
 5) Join my Reddit
 
@@ -12,7 +12,7 @@ My Discord server : https://discord.gg/ka4gfvUV4c
 
 My Reddit: https://www.reddit.com/r/BlooketAce/
 
-My Youtube channel: https://www.youtube.com/channel/UCWzeYXbbW1bL2oWQn6cfy6A
+My YouTube channel: https://www.youtube.com/channel/UCWzeYXbbW1bL2oWQn6cfy6A
 
 My GitHub : https://github.com/Blooket-Ace
 
