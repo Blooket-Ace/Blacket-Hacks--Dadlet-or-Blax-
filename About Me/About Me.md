@@ -8,9 +8,9 @@ Please:
 
 My WEBSITE : https://blooketace.wixsite.com/main
 
-My discord server : https://discord.gg/ka4gfvUV4c
+My Discord server : https://discord.gg/ka4gfvUV4c
 
-My reedit: https://www.reddit.com/r/BlooketAce/
+My Reddit: https://www.reddit.com/r/BlooketAce/
 
 My youtube channel: https://www.youtube.com/channel/UCWzeYXbbW1bL2oWQn6cfy6A
 
